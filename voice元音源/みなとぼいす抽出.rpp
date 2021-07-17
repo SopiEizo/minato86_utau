@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.29/win64" 1624194260
+<REAPER_PROJECT 0.1 "6.32/win64" 1626528527
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -10,17 +10,17 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 13.26315789473684
-  ZOOM 393.39179705 4101 0
+  CURSOR 46.78177493510619
+  ZOOM 71.20346332007088 2556 0
   VZOOMEX 25 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
-  LOOP 0
+  LOOP 1
   LOOPGRAN 0 4
   RECORD_PATH "" ""
   <RECORD_CFG
@@ -29,10 +29,10 @@
   <APPLYFX_CFG
   >
   RENDER_FILE ""
-  RENDER_PATTERN ""
+  RENDER_PATTERN おなら
   RENDER_FMT 0 2 44100
   RENDER_1X 0
-  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RANGE 2 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
@@ -57,8 +57,8 @@
   GLOBAL_AUTO -1
   TEMPO 190 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 40.30925900232785
-  SELECTION2 0 40.30925900232785
+  SELECTION 46.29516429297439 46.535095442101
+  SELECTION2 46.29516429297439 46.535095442101
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -79,7 +79,7 @@
   >
   <TEMPOENVEX
     EGUID {8855D8F6-BD83-4E83-8F81-D995A0F4AB73}
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
@@ -100,7 +100,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -114,7 +114,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 0.85865087082475
+      LENGTH 0.81543695500983
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -123,20 +123,20 @@
       SEL 0
       IGUID {2F8FB3E6-1636-4F08-8026-550688322846}
       IID 2
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME え
       VOLPAN 1 0 1 -1
-      SOFFS 2.431438724434
+      SOFFS 2.47465264024892
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {96BE5E4F-EB99-49D8-9463-2A6A68923EEE}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
       POSITION 1.26315789473684
       SNAPOFFS 0
-      LENGTH 0.11052344210768
+      LENGTH 0.11237147347911
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -145,168 +145,168 @@
       SEL 0
       IGUID {E55685F0-0698-46CB-B997-29D1E0A444D4}
       IID 5
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME む
       VOLPAN 1 0 1 -1
       SOFFS 4.36502277710598
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {14041C51-2F4E-43A2-965A-0C97A652979B}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 3.78947368421053
+      POSITION 3.79350952147049
       SNAPOFFS 0
-      LENGTH 0.09411266129661
+      LENGTH 0.10312630685845
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0.011502 0 1 0 0 0
+      FADEOUT 1 0.034642 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {B97A222C-FCC7-437C-A2CC-854BF161A8D9}
       IID 6
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME げ
       VOLPAN 1 0 1 -1
-      SOFFS 4.47554621921365
+      SOFFS 4.47958205647361
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {FAC65A2C-F8DC-4633-AFF7-E3E223F3B6D6}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 4.19937581919135
+      POSITION 4.19943663685236
       SNAPOFFS 0
-      LENGTH 0.06141628591711
+      LENGTH 0.07826631067766
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0.038492 0 1 0 0 0
+      FADEOUT 1 0.01668 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {CD59348D-F647-4688-8BA4-BAB3A5EDA1DE}
       IID 8
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME ん
       VOLPAN 1 0 1 -1
-      SOFFS 4.56965888051026
+      SOFFS 4.56971969817127
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {845D32A6-FBF9-44C2-899A-E102529D0E7A}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 4.42105263157895
+      POSITION 4.42397113469811
       SNAPOFFS 0
-      LENGTH 0.15764965712986
+      LENGTH 0.09494601623192
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0.026944 0 1 0 0 0
+      FADEOUT 1 0.02951 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {8CE3446E-B1CF-47E2-B8B1-45FD3A74F359}
       IID 7
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME か
       VOLPAN 1 0 1 -1
-      SOFFS 4.63107516642737
+      SOFFS 4.63399366954653
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {E88C0571-AC92-4A8E-BDAA-603BD2E30CC3}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 5.05263157894737
+      POSITION 5.02059137183112
       SNAPOFFS 0
-      LENGTH 0.0762598514381
+      LENGTH 0.11547488460639
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0.039775 0 1 0 0 0
+      FADEOUT 1 0.023095 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {8A6F611F-A097-46C5-BDDD-0F0614EB4E38}
       IID 12
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME こ
       VOLPAN 1 0 1 -1
-      SOFFS 7.11604099235224
+      SOFFS 7.08400078523599
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {F0C104F7-12F3-4967-BC71-3939B54C6669}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 5.36842105263158
+      POSITION 5.33365661454178
       SNAPOFFS 0
-      LENGTH 0.09913780686953
+      LENGTH 0.11666646506275
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0.026944 0 1 0 0 0
+      FADEOUT 1 0.02557 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {6B4BB647-33C8-4012-ABAE-91FBE1DB66B0}
       IID 14
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME の
       VOLPAN 1 0 1 -1
-      SOFFS 7.19230084379034
+      SOFFS 7.15753640570054
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {954FCE6D-BDB1-4CB6-BA80-DA5D3FF2D50E}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 5.68421052631579
+      POSITION 5.67621787343747
       SNAPOFFS 0
-      LENGTH 0.09659581182159
+      LENGTH 0.11212057145219
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0.020054 0 1 0 0 0
+      FADEOUT 1 0.021877 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {9DD94EBF-A343-4C62-B3BC-E25F6817FBEA}
       IID 15
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME た
       VOLPAN 1 0 1 -1
-      SOFFS 7.29143865065987
+      SOFFS 7.28344599778155
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {09F06A05-371B-4DA5-AD85-78111F948B7A}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 6
+      POSITION 6.00736374655672
       SNAPOFFS 0
-      LENGTH 0.13980972763652
+      LENGTH 0.09545922801592
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0.022535 0 1 0 0 0
+      FADEOUT 1 0.021877 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {D7836A82-F890-4225-AE0D-8AD80C4EB0F6}
       IID 16
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME び
       VOLPAN 1 0 1 -1
-      SOFFS 7.38803446248146
+      SOFFS 7.39539820903818
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {6CC9B218-F83D-4A81-96F2-C44465D19028}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
@@ -321,36 +321,58 @@
       SEL 0
       IGUID {FB25C4DE-5BB2-4F5A-A47B-0D8368F2472E}
       IID 17
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME は
       VOLPAN 1 0 1 -1
       SOFFS 7.52784419011797
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {2B868699-1F8A-4771-B86F-1717A4602F67}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 8.21052631578947
+      POSITION 8.04140685740929
       SNAPOFFS 0
-      LENGTH 0.14438075801988
+      LENGTH 0.16967452658784
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0.0272 0 1 0 0 0
+      FADEOUT 1 0.034971 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {7F81F53D-D61B-401D-8029-E8CBEA751EC0}
       IID 19
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME ほ
       VOLPAN 1 0 1 -1
-      SOFFS 9.58228914856329
+      SOFFS 9.41316969018311
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {BCBAB89E-06E8-4FDF-BA5D-4FD03AEDB580}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.33736585989267
+      SNAPOFFS 0
+      LENGTH 0.12822731398623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.033676 0 1 0 0 0
+      FADEOUT 1 0.026435 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {478A81D9-46C0-44F0-84E7-3C1008DDB266}
+      IID 49
+      NAME か
+      VOLPAN 1 0 1 -1
+      SOFFS 9.60227259767796
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B89DCD8D-3DD4-4FE8-A5DD-AEE1DD25D52A}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
@@ -360,195 +382,3077 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.025521 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {3E69454B-E6DD-4852-BAD2-CB40B2FFFF0C}
       IID 20
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME の
       VOLPAN 1 0 1 -1
       SOFFS 9.72666990658318
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {A030D093-DC9B-49DD-A231-B483DEC32D1C}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 9.15789473684211
+      POSITION 9.17278623889388
       SNAPOFFS 0
-      LENGTH 0.24248010797678
+      LENGTH 0.18426795587657
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.017319 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {ED37E066-0C5C-4B7F-A889-D9B751D84FB6}
       IID 21
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME さ
       VOLPAN 1 0 1 -1
-      SOFFS 10.22136836250802
+      SOFFS 10.23625986455979
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {AC1D3AF0-CADB-4612-B13C-A414C23F8FE4}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 9.58569997282728
+      POSITION 9.50289373369282
       SNAPOFFS 0
-      LENGTH 0.1042217969654
+      LENGTH 0.13050660526331
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.00429 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {148C5990-9768-4132-9BA6-8656A8AE4C1D}
+      IID 31
+      NAME ひ
+      VOLPAN 1 0 1 -1
+      SOFFS 10.50030891421663
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA231E8D-57A5-4A82-85B5-D26871F4E2D8}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 9.68376052844394
+      SNAPOFFS 0
+      LENGTH 0.07568786188462
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {AFD31C0E-B617-458F-B7FF-8C8F17275A9E}
-      IID 24
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      IGUID {4770F894-6B8A-40F0-958D-195E4AFF0B91}
+      IID 32
+      NAME ん
       VOLPAN 1 0 1 -1
-      SOFFS 10.58586423278576
+      SOFFS 10.61439816786654
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {010F157A-7CB9-4FB0-917E-AB1DDFE878AD}
+      GUID {1CA4D0AB-BFB9-41AC-AF26-6F01BD5FDAB8}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
       POSITION 9.78947368421053
       SNAPOFFS 0
-      LENGTH 0.11354351346144
+      LENGTH 0.11705774027124
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.018781 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {2B567045-E15F-49CA-8ED2-19FD6F42F731}
       IID 25
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME な
       VOLPAN 1 0 1 -1
       SOFFS 10.69008602975117
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {33F55167-F0CF-458C-96F9-D1AD42550E5B}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
       POSITION 10.10526315789474
       SNAPOFFS 0
-      LENGTH 0.14323509689898
+      LENGTH 0.16274799924981
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.030366 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {08B2F581-3797-4CD3-AD34-D0204A4BE235}
       IID 26
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME ど(お伸ばしめ)
       VOLPAN 1 0 1 -1
       SOFFS 10.8036295432126
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {782BF3E6-7789-4D3A-A3A0-3023C428FC24}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 10.42105263157895
+      POSITION 10.31582264892267
       SNAPOFFS 0
-      LENGTH 0.15315850521843
+      LENGTH 0.10232280611023
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0.021371 0 1 0 0 0
+      FADEOUT 1 0.021371 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {8B9E89CD-44B9-49BC-BBB6-2A78AF2DB68F}
       IID 27
       NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
       VOLPAN 1 0 1 -1
-      SOFFS 10.94686464011158
+      SOFFS 10.87752231575423
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {9A7628F4-FEA1-4673-9911-E3B05531ED5A}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 10.73684210526316
+      POSITION 10.50233510562991
       SNAPOFFS 0
-      LENGTH 0.12256073952221
+      LENGTH 0.07188500935592
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0D38E5E-DAC2-40D1-825A-1413C102F1CD}
+      IID 33
+      NAME あ(短すぎるので微妙)
+      VOLPAN 1 0 1 -1
+      SOFFS 11.02814711416254
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8AA66DA-EA17-4B13-81C8-7F9F05AAC11A}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 10.75943734629928
+      SNAPOFFS 0
+      LENGTH 0.10297041880713
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.029719 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {370A87D9-2B8A-4A02-8930-DEDAA2838583}
       IID 28
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      NAME げ
       VOLPAN 1 0 1 -1
-      SOFFS 11.10002314533001
+      SOFFS 11.12261838636613
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {D4F48754-E57E-480D-997F-3C62C80B0E97}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 11.05263157894737
+      POSITION 11.06580068082406
       SNAPOFFS 0
-      LENGTH 0.25162039922692
+      LENGTH 0.20495250131087
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.014056 0 1 0 0 0
+      FADEOUT 1 0.013886 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {250A40CF-2751-41A6-B324-03BB5C2699B8}
+      IID 29
+      NAME る
+      VOLPAN 1 0 1 -1
+      SOFFS 11.23575298672891
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8AE2BA10-F91B-4E7A-883A-7992A6A00862}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 11.32255619331318
+      SNAPOFFS 0
+      LENGTH 0.12744719677954
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.017024 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4003D3EB-8D9A-4D96-851C-4689D44F8594}
+      IID 30
+      NAME ちゃ
+      VOLPAN 1 0 1 -1
+      SOFFS 11.49250849921804
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {064AA93C-DD1E-4325-98F2-5919DD52939A}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 11.57638410514235
+      SNAPOFFS 0
+      LENGTH 0.04805106490063
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.014383 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0FDAEEB8-3905-4601-A8AB-ADAF63A5B2FF}
+      IID 34
+      NAME ん
+      VOLPAN 1 0 1 -1
+      SOFFS 11.63957261903387
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA2C4D56-FDA4-4047-BD58-6B7DEF96E15E}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 11.69523769332001
+      SNAPOFFS 0
+      LENGTH 0.08838705908085
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.014513 0 1 0 0 0
+      FADEOUT 1 0.013075 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6076FD7C-4689-4AF3-8437-379988721ECB}
+      IID 35
+      NAME ね
+      VOLPAN 1 0 1 -1
+      SOFFS 11.66067868459234
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEAE8C58-468D-4BF7-87FC-38D9B42F6C70}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 11.96917786410878
+      SNAPOFFS 0
+      LENGTH 0.08807532677842
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.018133 0 1 0 0 0
+      FADEOUT 1 0.018781 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EC82E76B-9582-4B2E-9143-12E90F5082B3}
+      IID 37
+      NAME る
+      VOLPAN 1 0 1 -1
+      SOFFS 11.76105865261187
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {797A9D3A-BF00-4ADC-9FF3-9DCD6AA93593}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 12.14791896845322
+      SNAPOFFS 0
+      LENGTH 0.44765795541324
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {250A40CF-2751-41A6-B324-03BB5C2699B8}
-      IID 29
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      IGUID {5BDD137C-B8F6-48FA-9CD3-59C9EA8A0667}
+      IID 38
+      NAME で
       VOLPAN 1 0 1 -1
-      SOFFS 11.22258388485222
+      SOFFS 11.84913397939029
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8AE2BA10-F91B-4E7A-883A-7992A6A00862}
+      GUID {6F85B21F-4A63-4F10-A76D-89775F620975}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
     <ITEM
-      POSITION 11.30425197817428
+      POSITION 12.73387488679112
       SNAPOFFS 0
-      LENGTH 28.72928777941292
+      LENGTH 0.082039442526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.0237 0 1 0 0 0
+      FADEOUT 1 0.017319 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {447C0638-302C-40DB-868F-94BEE3100BF1}
+      IID 41
+      NAME な
+      VOLPAN 1 0 1 -1
+      SOFFS 13.17807711384449
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {243D7B0C-0765-4065-A4B6-8BBA7101F4B9}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 12.9036358057187
+      SNAPOFFS 0
+      LENGTH 0.13308620676439
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.021877 0 1 0 0 0
+      FADEOUT 1 0.028258 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E60752CE-A286-4B62-A09F-604982437671}
+      IID 44
+      NAME ま
+      VOLPAN 1 0 1 -1
+      SOFFS 13.26923204998448
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24C0B81F-81B4-4C48-B224-CB72BCE6BCCD}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 13.20162039745328
+      SNAPOFFS 0
+      LENGTH 0.09024338677859
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.037374 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16027D40-6B75-4F88-ABCF-699989ECB4C3}
+      IID 45
+      NAME は
+      VOLPAN 1 0 1 -1
+      SOFFS 13.39046811505068
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2709EAD2-2768-4766-BD26-992046206EF2}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 13.4166498630096
+      SNAPOFFS 0
+      LENGTH 0.07809539469368
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.017944 0 1 0 0 0
+      FADEOUT 1 0.015522 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C5691D4F-46AB-4C96-870C-6B30343BB6DB}
+      IID 46
+      NAME い
+      VOLPAN 1 0 1 -1
+      SOFFS 13.48830174710718
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {834FA02C-F0F7-4EC4-83FB-A5D9D9D00625}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 13.61238348170072
+      SNAPOFFS 0
+      LENGTH 0.23357597802472
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.032381 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E0A09A70-E53D-4196-8039-52750EAEC71E}
+      IID 47
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 13.56639714180087
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1C2475A-DCFA-4B93-9EB7-D233695812A3}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 13.95064911472524
+      SNAPOFFS 0
+      LENGTH 0.18883219080644
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.028227 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C36AFDF-2EFE-4516-B682-21A12674B027}
+      IID 48
+      NAME ん
+      VOLPAN 1 0 1 -1
+      SOFFS 13.82027328022844
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD336F9A-A51E-4F9A-A83E-758E381D086D}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 14.30789046009781
+      SNAPOFFS 0
+      LENGTH 0.28071276433825
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.041537 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB2D4150-5C9D-4071-87A2-3DB150E433A1}
+      IID 42
+      NAME を
+      VOLPAN 1 0 1 -1
+      SOFFS 14.00910547103488
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CA97BE9-9D18-40EE-BCCC-E1FA34B3E3A8}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 14.85408040616323
+      SNAPOFFS 0
+      LENGTH 0.15170124670124
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.032507 0 1 0 0 0
+      FADEOUT 1 0.041537 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {386732A7-065C-4D36-9A05-976DA0D4ADB9}
+      IID 50
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 14.28981823537313
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8393051-F9F1-4C13-8B60-1440B8CF03BD}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 15.15206499789781
+      SNAPOFFS 0
+      LENGTH 0.06017073072259
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {4003D3EB-8D9A-4D96-851C-4689D44F8594}
-      IID 30
-      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      SEL 0
+      IGUID {74662FEE-1B97-40F6-B99D-6EE91A07CA21}
+      IID 51
+      NAME て
       VOLPAN 1 0 1 -1
-      SOFFS 11.47420428407914
+      SOFFS 14.41442997373486
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {064AA93C-DD1E-4325-98F2-5919DD52939A}
+      GUID {28D47D12-4DE2-49C0-9979-E47960685F84}
       <SOURCE MP3
-        FILE "F:\1_Movie_work\Music\みなとmad\【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 15.43921378629659
+      SNAPOFFS 0
+      LENGTH 0.10612353352429
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.019327 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {085F73D3-82B6-44D5-90B9-F7D170A5D514}
+      IID 52
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 14.47583285930441
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39E31132-132C-4413-AE24-7B6D0E84F908}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 15.68148932954766
+      SNAPOFFS 0
+      LENGTH 0.10649350469256
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.020529 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C935EFAB-8177-4039-8FCD-4AC72CF58BD2}
+      IID 53
+      NAME ま
+      VOLPAN 1 0 1 -1
+      SOFFS 14.5607133187682
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC8D26F7-8058-40EE-858E-632381AFB36A}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 15.90858993594022
+      SNAPOFFS 0
+      LENGTH 0.1193240474266
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.032076 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F9D20E9-7D17-4B7F-8497-0B2C43C8865D}
+      IID 55
+      NAME い
+      VOLPAN 1 0 1 -1
+      SOFFS 14.70441539738948
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1BE0C063-353B-46BE-BF91-8915C004C110}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 16.12285999959875
+      SNAPOFFS 0
+      LENGTH 0.0845586060191
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.026226 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C90C9C05-B235-4BB8-889A-F611FB46B1FF}
+      IID 56
+      NAME た
+      VOLPAN 1 0 1 -1
+      SOFFS 14.96626882549709
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2660F377-E23D-423E-BC01-61BA7BB6E0C3}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 16.29667948310825
+      SNAPOFFS 0
+      LENGTH 0.07474704763479
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.017319 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A29A5FC3-2F31-43D7-BE98-7F958EE6D93B}
+      IID 58
+      NAME い
+      VOLPAN 1 0 1 -1
+      SOFFS 15.07494457806972
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D722ADA1-BA36-4A4A-BA35-AAC6ECAFECA9}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 16.46349301624443
+      SNAPOFFS 0
+      LENGTH 0.10300507783819
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.026435 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D383A031-723E-4143-BE71-59E69E7D9597}
+      IID 57
+      NAME へ
+      VOLPAN 1 0 1 -1
+      SOFFS 15.09714036138433
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BE90411-AB59-4E6B-B519-9984D1CA55D4}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 16.60751781534563
+      SNAPOFFS 0
+      LENGTH 0.10027042975399
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.028258 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9CA29E35-DC3D-41A8-847E-09599935DEC4}
+      IID 60
+      NAME ん
+      VOLPAN 1 0 1 -1
+      SOFFS 15.22749192006452
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5BEB95C0-89FE-4311-9B94-DF9081726838}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 16.78162374337301
+      SNAPOFFS 0
+      LENGTH 0.0984473310312
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.041935 0 1 0 0 0
+      FADEOUT 1 0.0237 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {585764D8-E08D-451F-8A1B-A10A152870C8}
+      IID 61
+      NAME も
+      VOLPAN 1 0 1 -1
+      SOFFS 15.4654063033899
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9733FE9-96BC-4D51-B5B0-7D1EACC7D576}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 18.17706009580946
+      SNAPOFFS 0
+      LENGTH 0.63570046236711
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F479747-CBAB-48A2-84CA-B3F6A384450D}
+      IID 67
+      NAME ｽｩｩｩｩｩｩｩｩｳｳｳｯｯｯｯｯ!!!!!!!
+      VOLPAN 1 0 1 -1
+      SOFFS 16.72946678698879
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE8AC4D4-79F2-4220-9C5B-571126CC25DF}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 19.20826737993338
+      SNAPOFFS 0
+      LENGTH 0.71516302016299
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C18EFCD-1E24-43E5-B8C9-D88CB82A1297}
+      IID 70
+      NAME え
+      VOLPAN 1 0 1 -1
+      SOFFS 17.80582325167856
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D533D09-CA02-4F75-AF0E-C0075F429EAB}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20.22411260138383
+      SNAPOFFS 0
+      LENGTH 0.13716548420677
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.025523 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1E01BBC9-3EB7-4ED4-95F0-B76CBFCAA49B}
+      IID 71
+      NAME つ(すごくきれいに切れた)
+      VOLPAN 1 0 1 -1
+      SOFFS 18.77622091568415
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19281B71-D446-4203-BB77-FACF41F613BF}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20.50473563782334
+      SNAPOFFS 0
+      LENGTH 0.04554972014865
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.024385 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {692EDE8D-9BBF-4121-89F9-000908CA11B5}
+      IID 72
+      NAME う
+      VOLPAN 1 0 1 -1
+      SOFFS 18.87658884203514
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67216A08-AB9D-41C5-9E80-CE0DA958032F}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20.59951586358719
+      SNAPOFFS 0
+      LENGTH 0.17253681874486
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.028526 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E82811E-9AB6-459E-9C91-C2423692E545}
+      IID 74
+      NAME い
+      VOLPAN 1 0 1 -1
+      SOFFS 18.96586803361756
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E92FAE4C-E8D8-4C94-859C-4F54C826C980}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20.81427207837114
+      SNAPOFFS 0
+      LENGTH 0.09212292509272
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.029029 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {12B046E1-DB02-4591-92A4-CBFFDD510EFE}
+      IID 75
+      NAME は
+      VOLPAN 1 0 1 -1
+      SOFFS 19.22929933524295
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B1D00AA5-869F-4378-A0E0-2D4650307B1F}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20.94424871342526
+      SNAPOFFS 0
+      LENGTH 0.09312477113202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CA67A249-F2DE-4008-BAE1-86B8F5379301}
+      IID 76
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 19.34557432067914
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D13223E6-490F-489E-83E4-973ED5F48C66}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 21.09872239248899
+      SNAPOFFS 0
+      LENGTH 0.05429158563172
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.015382 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC8868F3-EF0E-4C1F-B345-97D3460CDAB1}
+      IID 79
+      NAME た
+      VOLPAN 1 0 1 -1
+      SOFFS 19.63927024845606
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5139BDBA-CAA9-4C82-AB88-54BAB3E1F64E}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 21.23445135656829
+      SNAPOFFS 0
+      LENGTH 0.06947482568127
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {635A15CF-1545-4DFF-9A36-7F5DA18110C2}
+      IID 80
+      NAME の
+      VOLPAN 1 0 1 -1
+      SOFFS 19.72458759621678
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56F2C5F1-02AA-404C-B0A6-15604F18FCE2}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 21.33521285871529
+      SNAPOFFS 0
+      LENGTH 0.1053624839802
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7272DF39-D21F-4F98-8FD8-24032016AA8D}
+      IID 81
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 19.77933928003182
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {17C8BFF2-0CC4-4AC3-BBB5-E3B2EF2B118F}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 21.50983028095451
+      SNAPOFFS 0
+      LENGTH 0.31904227648998
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EC57CFCB-8DA3-4F90-B448-3F1D20EB8FA6}
+      IID 85
+      NAME て
+      VOLPAN 1 0 1 -1
+      SOFFS 20.17897798103259
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E96B5839-AF2E-456B-95E3-13D3CEC97A4F}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 21.97290894079631
+      SNAPOFFS 0
+      LENGTH 0.1591939714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.027052 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {47626E5F-9B5F-4E52-99D1-FB68B1DBA31D}
+      IID 88
+      NAME ちゃ
+      VOLPAN 1 0 1 -1
+      SOFFS 20.70220731447616
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82AB0BCB-323A-4F05-8F7C-1BBCBC47318B}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.1647698832406
+      SNAPOFFS 0
+      LENGTH 0.10209747427758
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E80D64B-00D8-42DE-A822-841E43CCE9D7}
+      IID 89
+      NAME ね
+      VOLPAN 1 0 1 -1
+      SOFFS 20.86820877193666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE795A25-DD1E-4968-9BDD-BFC380705A82}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.3413428176617
+      SNAPOFFS 0
+      LENGTH 0.06078479597778
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.043624 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {91483331-38CC-40D2-9C46-7F119E097A28}
+      IID 90
+      NAME る
+      VOLPAN 1 0 1 -1
+      SOFFS 20.97030624621425
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69C1CB3F-4C93-40C0-841A-D19849BCFE5D}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.48453812064774
+      SNAPOFFS 0
+      LENGTH 0.0841979675475
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.023925 0 1 0 0 0
+      FADEOUT 1 0.020244 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6DF48604-7D43-4DC0-98A6-4706B9F62455}
+      IID 91
+      NAME か
+      VOLPAN 1 0 1 -1
+      SOFFS 21.14131543817796
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8602AED0-33E4-4C3C-81B8-447F5D2B00CB}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.61336561197725
+      SNAPOFFS 0
+      LENGTH 0.08549863856846
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.013343 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6292C645-3548-484D-AB6C-CF3562A18A68}
+      IID 93
+      NAME え
+      VOLPAN 1 0 1 -1
+      SOFFS 21.2287340930087
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FAB43A45-C62F-4040-A046-FA3E521B5BB7}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.72472953422659
+      SNAPOFFS 0
+      LENGTH 0.11521643721515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB1CA54E-D440-4207-B13D-F3BAE312CB85}
+      IID 92
+      NAME ず
+      VOLPAN 1 0 1 -1
+      SOFFS 21.31423273157715
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6552763-D2F7-4DAA-BDB6-D18688B4FD90}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.88015658148263
+      SNAPOFFS 0
+      LENGTH 0.08596429507234
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.018959 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3160468C-22D0-4DCF-B90B-C2F9F8F30415}
+      IID 95
+      NAME に
+      VOLPAN 1 0 1 -1
+      SOFFS 21.45023139792618
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {173AF5E1-B41E-4537-B59A-D2E9DDBC5539}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.03169795255727
+      SNAPOFFS 0
+      LENGTH 0.07253262205282
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.018781 0 1 0 0 0
+      FADEOUT 1 0.011657 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {73BB2206-DE59-4ADE-95E5-A9EF5A825787}
+      IID 94
+      NAME は
+      VOLPAN 1 0 1 -1
+      SOFFS 21.60039150333454
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40D8E35B-8957-45F7-BA22-D1B439DB19F4}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.1715822950877
+      SNAPOFFS 0
+      LENGTH 0.03561869832951
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {738F9B75-D11A-47D1-BCBD-CD9DA1162A0A}
+      IID 96
+      NAME い
+      VOLPAN 1 0 1 -1
+      SOFFS 21.67098128729666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {289FB6D7-ED31-44A7-BFD4-CF424862A190}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.29721915828633
+      SNAPOFFS 0
+      LENGTH 0.09587210332046
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {661C8A74-C60C-4E23-8CEB-C2C64F9BD343}
+      IID 97
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 21.69882863326336
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75370F03-C50E-438A-BF66-05A7DFA6447D}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.40494140330499
+      SNAPOFFS 0
+      LENGTH 0.0619853565752
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB7C1FDD-C1F6-4A0C-A1CC-B0274F0393DF}
+      IID 98
+      NAME ん
+      VOLPAN 1 0 1 -1
+      SOFFS 21.79470073658383
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93E9DC63-203B-49C2-A66E-8212D21710A6}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.51615042539579
+      SNAPOFFS 0
+      LENGTH 0.0656315540208
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02735A9A-113B-4D10-B216-3D56B3F9FF10}
+      IID 99
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 21.85668609315902
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {439C9EEF-D955-4068-AEA0-EE6A0518BE97}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.62371325004098
+      SNAPOFFS 0
+      LENGTH 0.06927775146639
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.025523 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {075A7B9E-6E96-467B-8971-566190EB4365}
+      IID 100
+      NAME て
+      VOLPAN 1 0 1 -1
+      SOFFS 21.92231764717982
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FF6CBAB-0AE2-4FD1-9248-D2828D404AAE}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.74950706191417
+      SNAPOFFS 0
+      LENGTH 0.08842028805579
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FAFBF91A-A9EE-4AC8-9157-51ED45461A92}
+      IID 101
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 21.99979934289881
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68212E17-16D4-4187-AB45-6BCBC8ED3A50}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 23.90538200271356
+      SNAPOFFS 0
+      LENGTH 0.13217465740299
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D85521F2-B9ED-459B-8974-AFA965218A5B}
+      IID 102
+      NAME ま
+      VOLPAN 1 0 1 -1
+      SOFFS 22.08821963095461
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2753AF6-935F-41B4-A8ED-E93859C62A6E}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.07219553584975
+      SNAPOFFS 0
+      LENGTH 0.12944000931879
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE0B6984-0C9D-4241-850B-D5CF9D4BCE0D}
+      IID 105
+      NAME ふ
+      VOLPAN 1 0 1 -1
+      SOFFS 22.57589853930358
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76A95E5D-4910-4D91-A3D1-DA94D49611F3}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.24721301323854
+      SNAPOFFS 0
+      LENGTH 0.11212057145219
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.030081 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7EC3618B-3390-4BB8-8F72-60E3AA4750A4}
+      IID 106
+      NAME か
+      VOLPAN 1 0 1 -1
+      SOFFS 22.70533854862237
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39E8A25B-A5C5-4C2A-B427-68BD43425F86}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.4091701588639
+      SNAPOFFS 0
+      LENGTH 0.16671206131032
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {406BB3DD-A303-4080-B587-F707CDD1ADCC}
+      IID 107
+      NAME く(きれい)
+      VOLPAN 1 0 1 -1
+      SOFFS 22.81745912007457
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A17759C-1F37-42F7-84AA-970E96B50CDB}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.61834905996265
+      SNAPOFFS 0
+      LENGTH 0.04921856496441
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.022019 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {89A7BE04-C565-49DE-B88C-5EB0CD73539D}
+      IID 109
+      NAME お
+      VOLPAN 1 0 1 -1
+      SOFFS 23.13765539055022
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DCEE1DDF-01AA-4AFF-9C8C-1E334F132379}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.69152929471237
+      SNAPOFFS 0
+      LENGTH 0.03756153642021
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B5D8CF4-F787-4B3A-B2B2-DE4F1D9A46EA}
+      IID 110
+      NAME わ
+      VOLPAN 1 0 1 -1
+      SOFFS 23.22508310463174
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {524A942D-FC02-4DE4-9475-409524B5497B}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.74981443743339
+      SNAPOFFS 0
+      LENGTH 0.08095158711252
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.030438 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69F93C18-16B2-476F-B2CC-C4063A4F93ED}
+      IID 111
+      NAME び
+      VOLPAN 1 0 1 -1
+      SOFFS 23.28207302195895
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B626F0A6-2D3E-4220-AE46-7E70BCDB567B}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.86314665939091
+      SNAPOFFS 0
+      LENGTH 0.09584667914122
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ECA07AA8-5C0A-4E31-948E-D4AF8FB68CFA}
+      IID 112
+      NAME も
+      VOLPAN 1 0 1 -1
+      SOFFS 23.36302460907147
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E8369C7-2503-4234-A5D9-A80996887AE7}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 25.0183837729829
+      SNAPOFFS 0
+      LENGTH 0.08095158711252
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.013673 0 1 0 0 0
+      FADEOUT 1 0.018966 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5C7F67F-C132-4BA7-AB86-8A50013B921E}
+      IID 114
+      NAME ま
+      VOLPAN 1 0 1 -1
+      SOFFS 23.68359289403706
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD1919E3-B811-4F59-9570-09F5B2B84632}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 25.14235448613329
+      SNAPOFFS 0
+      LENGTH 0.17938871704134
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.043568 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {13E63419-C5BC-481A-9B11-1505DDF4AC61}
+      IID 115
+      NAME す
+      VOLPAN 1 0 1 -1
+      SOFFS 23.76454448114957
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6732040-87AC-4DFC-80F1-28C53F60B16C}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 26.74941388943716
+      SNAPOFFS 0
+      LENGTH 0.42705516805342
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.072624 0 1 0 0 0
+      FADEOUT 1 0.066092 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06261C51-9024-46F2-92E2-7420A538E6CE}
+      IID 117
+      NAME え
+      VOLPAN 1 0 1 -1
+      SOFFS 25.31838677199644
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B44E10D5-A4A7-4208-A92A-390BAA530D0D}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.21714097825756
+      SNAPOFFS 0
+      LENGTH 0.11191504525451
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.0298 0 1 0 0 0
+      FADEOUT 1 0.035926 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {129D80AA-62F1-4511-A801-D35609162A7D}
+      IID 118
+      NAME こ
+      VOLPAN 1 0 1 -1
+      SOFFS 25.74544194004986
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C4ACC6E-3877-44AE-87E3-29FC4FDD69E8}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.45992755939931
+      SNAPOFFS 0
+      LENGTH 0.11419183033298
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.017963 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26EF8C1E-994D-4C15-91AC-527AC767BA3C}
+      IID 119
+      NAME は
+      VOLPAN 1 0 1 -1
+      SOFFS 25.91555766143745
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B83A8B7-6B2F-4522-B6D8-13C6F00BD2F4}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.6036296380206
+      SNAPOFFS 0
+      LENGTH 0.09109685341171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.035926 0 1 0 0 0
+      FADEOUT 1 0.032076 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C7A57E0-41CC-48FD-AE9F-8E298909E5DB}
+      IID 120
+      NAME で
+      VOLPAN 1 0 1 -1
+      SOFFS 26.02718338322363
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEE8C4EE-086A-4C4E-8D1C-E5F4A4CC27EC}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.71911865272061
+      SNAPOFFS 0
+      LENGTH 0.10297041880712
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.020661 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F269484-5D62-4F5F-B895-AFC73075B93E}
+      IID 121
+      NAME す
+      VOLPAN 1 0 1 -1
+      SOFFS 26.1080158024481
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {333AFBFE-1DCD-4DC7-8400-980DA45DDB2D}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.8327194035553
+      SNAPOFFS 0
+      LENGTH 0.3560330483766
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C3C0255-849D-40FC-BD91-D80A1333BCC1}
+      IID 122
+      NAME ね
+      VOLPAN 1 0 1 -1
+      SOFFS 26.21098622125522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29ED1443-D12D-4A97-8649-D372CEB0D826}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28.27347512126713
+      SNAPOFFS 0
+      LENGTH 0.17938871704134
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.062818 0 1 0 0 0
+      FADEOUT 1 0.024609 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50C4908C-438F-4C7D-B6BF-39DB16B1C3B9}
+      IID 124
+      NAME せ
+      VOLPAN 1 0 1 -1
+      SOFFS 26.76552397048675
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28DC2549-D979-416B-8845-FD87A6E39630}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28.51622244538806
+      SNAPOFFS 0
+      LENGTH 0.06320885279218
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.046955 0 1 0 0 0
+      FADEOUT 1 0.039731 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ABF99B8C-EF76-4E04-B472-87941FA7446B}
+      IID 125
+      NAME ん
+      VOLPAN 1 0 1 -1
+      SOFFS 26.94188982988078
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E40626C6-F5FE-4BA1-9894-8D90ED5D6DE6}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28.7000044791128
+      SNAPOFFS 0
+      LENGTH 0.08711304967033
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.008282 0 1 0 0 0
+      FADEOUT 1 0.021319 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {496DCA47-0D76-4F8B-B48F-7D4206046273}
+      IID 126
+      NAME よ
+      VOLPAN 1 0 1 -1
+      SOFFS 26.99022432190799
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1CBE05A-D15E-49DB-AA79-3A60532AC1C0}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28.84263491594189
+      SNAPOFFS 0
+      LENGTH 0.14263043682909
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.015643 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF085AA8-DE03-40D5-AA5A-B8B3F7955427}
+      IID 127
+      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 27.07733737157832
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF99685C-2EFE-48E7-98B2-3B3BD26866E5}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 29.05381998208561
+      SNAPOFFS 0
+      LENGTH 0.12974768769614
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.025305 0 1 0 0 0
+      FADEOUT 1 0.030827 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3150E39-5FEE-46CF-8796-32F1BD201847}
+      IID 129
+      NAME ちゃ
+      VOLPAN 1 0 1 -1
+      SOFFS 27.24251261939007
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2AC3A114-E11C-4906-BEB6-9FA37AA88F8C}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 29.22037552444732
+      SNAPOFFS 0
+      LENGTH 0.05874002167174
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {087EE3C2-B3DD-4911-8C18-9CA6548DBDB0}
+      IID 130
+      NAME ん
+      VOLPAN 1 0 1 -1
+      SOFFS 27.40308688536863
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C1CB021-0A64-46CF-930A-93F6CBA546C6}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 29.34095084474141
+      SNAPOFFS 0
+      LENGTH 0.0556045110454
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.037697 0 1 0 0 0
+      FADEOUT 1 0.01185 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {834AB2AB-0995-4980-8EDF-E00B6F4E7161}
+      IID 131
+      NAME ね
+      VOLPAN 1 0 1 -1
+      SOFFS 27.4958775762984
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99777DE2-D97F-443F-AF82-6E3C432D0A24}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 29.42234004556801
+      SNAPOFFS 0
+      LENGTH 0.04598050147991
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.022666 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0549F9E6-A2D0-4061-9836-DEE12D92923A}
+      IID 132
+      NAME る
+      VOLPAN 1 0 1 -1
+      SOFFS 27.51870805758395
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27BC3B76-19CE-446B-8FA6-F28A96F1CF84}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 29.54150078179764
+      SNAPOFFS 0
+      LENGTH 0.15736988534674
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43CDE76F-FCFE-44B9-B7D0-199B3B5D6A3C}
+      IID 133
+      NAME を
+      VOLPAN 1 0 1 -1
+      SOFFS 27.59383113042437
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26899A64-FB81-463F-A58F-A803807F9138}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 29.76039387334989
+      SNAPOFFS 0
+      LENGTH 0.13794150443973
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {688D4E1D-E85D-49EC-94A1-534793D16F49}
+      IID 134
+      NAME も
+      VOLPAN 1 0 1 -1
+      SOFFS 27.75120101577111
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0957F41F-0349-47D0-AE33-39824A189FF5}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 29.94820155545094
+      SNAPOFFS 0
+      LENGTH 0.06799933317452
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.023314 0 1 0 0 0
+      FADEOUT 1 0.040152 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CC7D0B90-EC1B-4C68-8ED4-D5C58BD24FB3}
+      IID 135
+      NAME け
+      VOLPAN 1 0 1 -1
+      SOFFS 27.90986612651164
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65C07339-879E-4E5B-88EF-EB8DFAEC86F0}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 30.10168576461627
+      SNAPOFFS 0
+      LENGTH 0.10232280611022
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01619 0 1 0 0 0
+      FADEOUT 1 0.029143 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FCCEFFE4-7889-4EE9-B709-D17D42099DC6}
+      IID 136
+      NAME ま
+      VOLPAN 1 0 1 -1
+      SOFFS 27.98952248823036
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5B14D57-F033-47A9-879E-375023A36B4E}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 30.26229371344751
+      SNAPOFFS 0
+      LENGTH 0.11916073622963
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {82FA2775-3F44-4F0B-A235-41D064B4E390}
+      IID 137
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 28.08342632928089
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19FE2038-FD9C-4CE7-AF5A-F1FA4A005B1E}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 30.46888216375866
+      SNAPOFFS 0
+      LENGTH 0.29106098683654
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42E18077-F0A0-406B-89A6-F616B6835F48}
+      IID 138
+      NAME て
+      VOLPAN 1 0 1 -1
+      SOFFS 28.20258706551051
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E8D671A-C959-47F7-8EB1-29DD74E32B29}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 31.01655400527607
+      SNAPOFFS 0
+      LENGTH 0.15653262135525
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F1FAD7F-5C1D-4DDD-9C24-B77F0319EEC6}
+      IID 139
+      NAME そ
+      VOLPAN 1 0 1 -1
+      SOFFS 28.49364805234706
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14B4F3C4-B120-4C1F-9E51-4B8BF0E6BB80}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 31.30909037961218
+      SNAPOFFS 0
+      LENGTH 0.05388827948298
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.033359 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF484720-8798-4AE5-B35B-B95AE00E345B}
+      IID 141
+      NAME ち
+      VOLPAN 1 0 1 -1
+      SOFFS 28.64987570287597
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F0AC106-104B-47F9-A7E9-C9D48F5A174A}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 31.40147028729728
+      SNAPOFFS 0
+      LENGTH 0.12189015597341
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.033359 0 1 0 0 0
+      FADEOUT 1 0.047473 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3EA035B4-F391-4E61-96D3-AF74AF4260A9}
+      IID 142
+      NAME ら
+      VOLPAN 1 0 1 -1
+      SOFFS 28.71017925372597
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7B574CB-7BA7-479A-A968-CD468538D5D9}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 31.81461376333348
+      SNAPOFFS 0
+      LENGTH 0.1153860337985
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.044003 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4459CBB4-D8FC-4435-B970-41F109A2E5C3}
+      IID 143
+      NAME ほ
+      VOLPAN 1 0 1 -1
+      SOFFS 28.87954241781534
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99BBDC12-69A4-46B3-90CF-3E146ECCE8CE}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32.04551780001496
+      SNAPOFFS 0
+      LENGTH 0.0811278931646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.022789 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {471F64B5-0C05-4E2B-BE2D-64407FC38AA0}
+      IID 144
+      NAME う
+      VOLPAN 1 0 1 -1
+      SOFFS 28.99492845161384
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73767E67-3154-43D5-BE13-7F8A0B581172}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32.16766541444255
+      SNAPOFFS 0
+      LENGTH 0.11120902209079
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.024524 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EF1FC80-2DC6-443E-93C6-B964648DE4BC}
+      IID 145
+      NAME は
+      VOLPAN 1 0 1 -1
+      SOFFS 29.08881803583804
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {078CA85D-0542-4513-A9AE-3FA8923004E8}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32.35477961243669
+      SNAPOFFS 0
+      LENGTH 0.09156434593707
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10F465C0-CACA-4563-AE52-DE031D58777B}
+      IID 146
+      NAME い
+      VOLPAN 1 0 1 -1
+      SOFFS 29.20002705792883
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18FE3E02-F093-4030-AF79-7812460DBEE0}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32.52285972225265
+      SNAPOFFS 0
+      LENGTH 0.10649350469256
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02951 0 1 0 0 0
+      FADEOUT 1 0.023095 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D98A2DA6-8A89-4305-AE01-7640918BC757}
+      IID 147
+      NAME や
+      VOLPAN 1 0 1 -1
+      SOFFS 29.31725248933398
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {489FCB58-A1A6-4D0E-B827-4E60A55AFDB2}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32.70120426625586
+      SNAPOFFS 0
+      LENGTH 0.07698325640426
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B96851CD-54E5-4610-90E2-01A8074FD5A3}
+      IID 149
+      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 29.57001418119463
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {440185EC-93AA-47CE-95B9-61CB30697A9D}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32.90905905854736
+      SNAPOFFS 0
+      LENGTH 0.10402177119883
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.021672 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1D0B503E-8509-4CAA-A4F9-002F8C606412}
+      IID 150
+      NAME き
+      VOLPAN 1 0 1 -1
+      SOFFS 29.60465664657654
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {314980FF-43EE-4372-9527-64064FD7D08D}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 33.24381871740996
+      SNAPOFFS 0
+      LENGTH 0.07665237094332
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.032076 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {04715743-1723-417E-A0A7-C4324E353C04}
+      IID 151
+      NAME た
+      VOLPAN 1 0 1 -1
+      SOFFS 29.71728233705519
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3DC94578-7E3B-4332-952F-07AC5DCF38EC}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 33.64153676587241
+      SNAPOFFS 0
+      LENGTH 0.10962263496965
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.029143 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F1BD4C4B-5CD8-4AAE-9148-5915E860B235}
+      IID 152
+      NAME と
+      VOLPAN 1 0 1 -1
+      SOFFS 29.8710392274399
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC6FA655-0608-4A12-9E9B-98608DAF963D}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 33.83670729821863
+      SNAPOFFS 0
+      LENGTH 0.28649704462968
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1DAEBEFF-5D83-48B6-8BD5-78CFC5CC00FF}
+      IID 153
+      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 29.98066186240955
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA3DF18C-40D2-4F7D-8E4B-CFE9524E4D83}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 34.25113382852823
+      SNAPOFFS 0
+      LENGTH 0.11547488460639
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {133A086D-E36B-415B-AE5B-8EDDCEA5C6B1}
+      IID 154
+      NAME の
+      VOLPAN 1 0 1 -1
+      SOFFS 30.26972501558604
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D2AD819-01B3-4AAF-8B85-C907C83984E1}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 34.41536477552398
+      SNAPOFFS 0
+      LENGTH 0.13087153588724
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E0F5B0F-8FA7-4DC7-BDD2-CBE9BA4C770C}
+      IID 156
+      NAME で
+      VOLPAN 1 0 1 -1
+      SOFFS 30.41855931130094
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37DFCDFF-3B91-45E4-92B9-8483C7C5ABAE}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 34.8066963289123
+      SNAPOFFS 0
+      LENGTH 0.27329056023513
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {23B4D5D9-3FA1-4BE2-9645-F3EADA9BFC63}
+      IID 158
+      NAME え
+      VOLPAN 1 0 1 -1
+      SOFFS 30.88687412109351
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A97B1AAF-5CFC-431F-9217-B3E7609753FE}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 35.2049478866271
+      SNAPOFFS 0
+      LENGTH 0.10590532426053
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.030993 0 1 0 0 0
+      FADEOUT 1 0.031158 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A1D53D9-38F0-442F-8DD5-B429EEAF62D2}
+      IID 159
+      NAME こ
+      VOLPAN 1 0 1 -1
+      SOFFS 31.20814242240405
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70587192-0839-446E-8EBC-8536B6CF624A}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 35.3921970524216
+      SNAPOFFS 0
+      LENGTH 0.06069226050628
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {090DF00E-72EC-4145-AE0D-9AD24D25DFA0}
+      IID 160
+      NAME ん
+      VOLPAN 1 0 1 -1
+      SOFFS 31.31404774666458
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7E2FFB4-9CCD-40BF-A5F3-060D0DA87C01}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 35.56045213757307
+      SNAPOFFS 0
+      LENGTH 0.10209352847679
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3CEEB7FB-2671-430C-A0B6-236D777635F2}
+      IID 161
+      NAME ご
+      VOLPAN 1 0 1 -1
+      SOFFS 31.37474000717086
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B763B75-0307-4196-8EE7-77176223426C}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 35.70083073922866
+      SNAPOFFS 0
+      LENGTH 0.17593285370282
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.030081 0 1 0 0 0
+      FADEOUT 1 0.035926 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A3F68A4-053F-41F2-AF24-A87FBCA3380F}
+      IID 162
+      NAME と
+      VOLPAN 1 0 1 -1
+      SOFFS 31.48321438117745
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CB54ABF-A67F-4037-AA22-4C9CA4D48433}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 35.98582320617085
+      SNAPOFFS 0
+      LENGTH 0.09366296195851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C4DF44C-B73B-43C5-B81E-6E2806CC2BAC}
+      IID 163
+      NAME も
+      VOLPAN 1 0 1 -1
+      SOFFS 31.66552425345744
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96A876E2-A000-47C3-8516-BAACC291E817}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 36.81807704416764
+      SNAPOFFS 0
+      LENGTH 0.09325622835362
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.022666 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0685840F-082F-4AC3-979D-D55678FDB1BB}
+      IID 165
+      NAME よ
+      VOLPAN 1 0 1 -1
+      SOFFS 32.45030508333828
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C49DFFF0-45ED-45D4-93CB-A5532EF12F6B}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 37.0389129738106
+      SNAPOFFS 0
+      LENGTH 0.07900874902182
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.012952 0 1 0 0 0
+      FADEOUT 1 0.025257 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE532644-C23F-4235-B477-CB021094C95B}
+      IID 166
+      NAME ろ
+      VOLPAN 1 0 1 -1
+      SOFFS 32.52666363517053
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2FDA4B17-7255-4E5E-B09F-A91F333E9FDE}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 37.23773007175895
+      SNAPOFFS 0
+      LENGTH 0.08375263302578
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {754DA6C0-92AE-40AC-A8CF-0CF5B4A66EE5}
+      IID 167
+      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 32.60567238419235
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0C794898-1551-4A62-9385-966A0E8CC786}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 37.43952369793792
+      SNAPOFFS 0
+      LENGTH 0.06491961717942
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009708 0 1 0 0 0
+      FADEOUT 1 0.017024 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {97F57A2D-5F98-496C-BEFB-9B57AD946978}
+      IID 168
+      NAME く
+      VOLPAN 1 0 1 -1
+      SOFFS 32.68942501721813
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8783C4A-0FE2-466E-9F27-45E36E6EFB40}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 37.59477326501985
+      SNAPOFFS 0
+      LENGTH 0.07208470880933
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.036348 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF9F9DA0-AA41-411D-A3F5-CD91B208D0B3}
+      IID 169
+      NAME お
+      VOLPAN 1 0 1 -1
+      SOFFS 32.76127605652877
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {36549E2D-E9F2-4756-A2F2-221F46A0CFCF}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 37.78648350149228
+      SNAPOFFS 0
+      LENGTH 0.04057412444579
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.022789 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E102AFAA-DE76-44D2-BEEC-90C3C9876584}
+      IID 170
+      NAME ね
+      VOLPAN 1 0 1 -1
+      SOFFS 32.8402622380879
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C685BA42-8CA2-4DF7-958D-056B62F20FBA}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 37.86138109887377
+      SNAPOFFS 0
+      LENGTH 0.04189785369082
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {05A8285E-F510-49AD-B349-C49D0F335D81}
+      IID 172
+      NAME が
+      VOLPAN 1 0 1 -1
+      SOFFS 32.8379871998992
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D760B823-1CED-4A2C-AE40-090F889CC4D0}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 37.9792466097096
+      SNAPOFFS 0
+      LENGTH 0.02979018405741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5AD13B27-8E15-47B0-8A04-BDA3B2AA9820}
+      IID 173
+      NAME い
+      VOLPAN 1 0 1 -1
+      SOFFS 32.87988505359002
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F830865-FE9B-4F86-9D4F-CCA95D475F47}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38.09452166975783
+      SNAPOFFS 0
+      LENGTH 0.04339005069231
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {37A7D801-5CE1-470A-B6E1-E9D8E67B5550}
+      IID 174
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 32.90967523764743
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1BF0118-B0C0-4675-AD43-10A8D553E31C}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38.21692046947196
+      SNAPOFFS 0
+      LENGTH 0.12649186845509
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB88F3F7-4FB3-4616-8F96-F758A18BBD59}
+      IID 175
+      NAME ま
+      VOLPAN 1 0 1 -1
+      SOFFS 32.95306528833974
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE802687-3B5B-4ABD-AE81-11BAA2FEF5B0}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38.39924829444433
+      SNAPOFFS 0
+      LENGTH 0.22146400424425
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {832F7DBD-8862-4388-83A5-F9A98C651CE2}
+      IID 176
+      NAME す
+      VOLPAN 1 0 1 -1
+      SOFFS 33.07955715679483
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB6D18E0-69A4-4A15-BF8E-689A4DCFD4F1}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.76181693911698
+      SNAPOFFS 0
+      LENGTH 0.02332878487273
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.003399 0 1 0 0 0
+      FADEOUT 1 0.006977 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1FBA1F23-79DE-4746-8735-19D409101B7C}
+      IID 178
+      NAME い
+      VOLPAN 1 0 1 -1
+      SOFFS 34.37490259419577
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EC2626A-EB72-4AD1-9443-A0665B6D697D}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.8534377545386
+      SNAPOFFS 0
+      LENGTH 0.28948287551437
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.050094 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9ACB0AF4-8A37-45B1-9685-57F699928833}
+      IID 179
+      NAME じょー
+      VOLPAN 1 0 1 -1
+      SOFFS 34.39915586127823
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFBA8AF8-7F38-4D7A-803B-2AE05EB74297}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 40.90760069154502
+      SNAPOFFS 0
+      LENGTH 0.12888790776873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.025523 0 1 0 0 0
+      FADEOUT 1 0.030441 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2EC951F9-6570-4B79-B939-49387C281894}
+      IID 182
+      NAME う
+      VOLPAN 1 0 1 -1
+      SOFFS 35.52419288520033
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0D0FB6A-C4A2-44B5-81D4-B0BAE5646094}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 41.09446831063201
+      SNAPOFFS 0
+      LENGTH 0.10118197911539
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.021877 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC135015-DFD6-4516-84D6-357B00AEB25B}
+      IID 183
+      NAME げ
+      VOLPAN 1 0 1 -1
+      SOFFS 35.63393825637966
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A940391-D55D-4D46-9861-726FB62013F6}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 41.38363253438271
+      SNAPOFFS 0
+      LENGTH 0.07945696719786
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02951 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16E2DB93-0357-4CA1-8F9E-1A671A72F563}
+      IID 184
+      NAME ん
+      VOLPAN 1 0 1 -1
+      SOFFS 35.7213473072111
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1128306A-54A7-49E9-B116-FEA01FBD4B27}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 41.5299007215508
+      SNAPOFFS 0
+      LENGTH 0.0872476905915
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.038492 0 1 0 0 0
+      FADEOUT 1 0.017963 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB34BCEA-1D3C-4A70-88EC-2A4B63D3A1D2}
+      IID 185
+      NAME か
+      VOLPAN 1 0 1 -1
+      SOFFS 35.81620092568981
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {306A8D1B-FBEB-4A91-90B7-AFF2875CD5ED}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 41.77624714204443
+      SNAPOFFS 0
+      LENGTH 0.06928493076383
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.025661 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {97E3931A-92EB-4CF7-B8CE-FD08479D525C}
+      IID 186
+      NAME い
+      VOLPAN 1 0 1 -1
+      SOFFS 35.90473167055472
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74386872-244C-4985-89C8-C6B989EE9AFA}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 41.99564942279656
+      SNAPOFFS 0
+      LENGTH 0.08339852777128
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {53648CE1-B46F-4383-ACC3-F54560044912}
+      IID 187
+      NAME か
+      VOLPAN 1 0 1 -1
+      SOFFS 35.98043187268556
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06F23979-ACE8-4BBD-A4F7-EA7BC9B278CC}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 42.33691009022012
+      SNAPOFFS 0
+      LENGTH 0.11576676889779
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.043754 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F3672CD-26DB-487C-8780-37C95FB80DAC}
+      IID 188
+      NAME か
+      VOLPAN 1 0 1 -1
+      SOFFS 36.08669092272405
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AFD33A6D-2C63-4C32-AC79-06111E6FE741}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 42.53774513217134
+      SNAPOFFS 0
+      LENGTH 0.11091483964756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.037374 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A6B800D1-9482-43EB-96D5-2BF6FDC0C61E}
+      IID 189
+      NAME ら
+      VOLPAN 1 0 1 -1
+      SOFFS 36.1812351453348
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55E639E3-8789-4B52-99A2-A59C661020A9}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 42.73468868427744
+      SNAPOFFS 0
+      LENGTH 0.12060710170001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.044907 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A2F08C95-E7A0-4B56-8C6C-0A93712BBD8A}
+      IID 190
+      NAME の
+      VOLPAN 1 0 1 -1
+      SOFFS 36.29853083051216
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6206B02-1DF0-402D-B97D-7AAEDD661D81}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 43.41595520018634
+      SNAPOFFS 0
+      LENGTH 0.05375185384271
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.005181 0 1 0 0 0
+      FADEOUT 1 0.022666 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36692BAF-0E8D-4893-9120-BBF77A36CFFE}
+      IID 193
+      NAME お
+      VOLPAN 1 0 1 -1
+      SOFFS 36.88114701072128
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BCEB9F7-FDC2-497D-BCB7-B4648A3D9D86}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 43.56867396199025
+      SNAPOFFS 0
+      LENGTH 0.09143122492745
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.033676 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2BF24C01-5E3A-4DAB-A38E-DAE3E5A15E86}
+      IID 194
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 36.92979353302708
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8F7F215-D204-42EC-9B5A-4BC8597C09F0}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 43.79739907866053
+      SNAPOFFS 0
+      LENGTH 0.08159919980942
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.023962 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {97AF56CB-2B3F-4246-B578-39B0023450FA}
+      IID 196
+      NAME 【土下座（しない）】大変申し訳ありませんでした。.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 37.03250260308377
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE3F5713-2EB2-4EDD-B0D8-CD8BD4C68A40}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 43.93404535770647
+      SNAPOFFS 0
+      LENGTH 0.14830330759013
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.019428 0 1 0 0 0
+      FADEOUT 1 0.032381 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3B85FB3-7054-4278-8B43-FD503DC69D97}
+      IID 197
+      NAME せ
+      VOLPAN 1 0 1 -1
+      SOFFS 37.10568283783349
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B1C6B41D-0549-4AD2-B993-AAB6601071B3}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 44.17366205555952
+      SNAPOFFS 0
+      LENGTH 0.08570563785307
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.012478 0 1 0 0 0
+      FADEOUT 1 0.029363 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C7D40641-6537-4CC3-9C49-0CD52E1B266E}
+      IID 198
+      NAME で
+      VOLPAN 1 0 1 -1
+      SOFFS 37.23844344069802
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D595BBE-DAE8-4809-B5AB-ED9774FE5C2A}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 44.38931708362727
+      SNAPOFFS 0
+      LENGTH 0.09843712992883
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.020724 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C18CAF1-EA27-42E7-BBDA-3AAE36C46CC5}
+      IID 199
+      NAME し
+      VOLPAN 1 0 1 -1
+      SOFFS 37.32997759282319
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB2CECD5-B0BB-4AB8-A151-FA29461A2EE6}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 44.63152423226791
+      SNAPOFFS 0
+      LENGTH 0.11203699656373
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.007124 0 1 0 0 0
+      FADEOUT 1 0.020724 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE63DC6C-3E25-486F-A3EE-18E477E48F0A}
+      IID 200
+      NAME た
+      VOLPAN 1 0 1 -1
+      SOFFS 37.4277671100551
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6AE1105-08FF-4378-80D3-96DD79E75F63}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 46.16300970281375
+      SNAPOFFS 0
+      LENGTH 0.04875606238936
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E8AB8818-51FE-4D7A-874E-F966A12ABD62}
+      IID 204
+      NAME お
+      VOLPAN 1 0 1 -1
+      SOFFS 38.92279060614494
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0AEF90B4-9248-4EF7-9E61-4B07BC262071}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 46.4170544489478
+      SNAPOFFS 0
+      LENGTH 0.08083241922447
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.025661 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C6A74BE3-DBE8-40B5-9B32-682903D32995}
+      IID 205
+      NAME な
+      VOLPAN 1 0 1 -1
+      SOFFS 38.99720775400239
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F6CBE13-5BCF-4A69-AD41-23B6CC3FD277}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 46.70189249764356
+      SNAPOFFS 0
+      LENGTH 0.35027381663937
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.036539 0 1 0 0 0
+      FADEOUT 1 0.073541 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {47EC5AC6-4F95-4BA4-90C9-748A2CCAE8D3}
+      IID 207
+      NAME ら
+      VOLPAN 1 0 1 -1
+      SOFFS 39.12807928988963
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2AF568C8-AF9A-4EC6-B671-59E2F1556160}
+      <SOURCE MP3
+        FILE "【土下座（しない）】大変申し訳ありませんでした。.mp3" 1
       >
     >
   >
