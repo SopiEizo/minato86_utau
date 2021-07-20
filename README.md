@@ -1,4 +1,6 @@
 # minato86_utau
+[![GitHub license](https://img.shields.io/github/license/SopiEizo/minato86_utau?style=flat-square)](https://github.com/SopiEizo/minato86_utau/blob/master/LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/SopiEizo/minato86_utau/total?style=flat-square)
 
 ## このリポジトリについて
 
