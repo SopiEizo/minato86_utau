@@ -1,4 +1,4 @@
-name=–¤”g‚Ý‚È‚Æ_utau
+name=minato86_utau
 author=
 image=minamiminato.jpg
 sample=
