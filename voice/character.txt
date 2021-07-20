@@ -1,0 +1,6 @@
+name=–¤”g‚Ý‚È‚Æ_utau
+author=
+image=minamiminato.jpg
+sample=
+web=https://github.com/SopiEizo/minato86_utau
+version:1.0.1
