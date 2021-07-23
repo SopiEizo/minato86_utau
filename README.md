@@ -10,7 +10,7 @@
 
 ***UTAUが既にインストールされている環境下でインストールを進めてください***
 
-[Releases]より最新VersionのAssetタブに`.uar`が付いたファイルがあるか確認してください
+[Releases](https://github.com/SopiEizo/minato86_utau/releases/latest)より最新VersionのAssetタブに`.uar`が付いたファイルがあるか確認してください
 
 ### `.uar`のファイルがある場合
   1. `.uar`の拡張子がついたファイルをクリックしてダウンロード
